@@ -37,6 +37,7 @@ El usuario debe ingresar el número correspondiente a la operación que desea re
 Estado del Proyecto
 
 Estado: 
+
     Terminado, con opción a implementar mejoras.
 
 Autor:
