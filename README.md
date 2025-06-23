@@ -1,11 +1,12 @@
 AppCalculadora
 
 Descripción:
+
 Este proyecto es una calculadora sencilla en consola diseñada para aprender y repasar lo aprendido en el ciclo de Formación Profesional de Desarrollo de Aplicaciones Multiplataforma (CFGM DAM). Se ha subido a GitHub con el propósito de servir como parte de un portfolio de proyectos.
 
 La aplicación permite al usuario realizar operaciones matemáticas sencillas (suma, resta, multiplicación, división) en la consola. El usuario selecciona la operación deseada mediante un número y luego ingresa los dos operandos para obtener el resultado.
 
-Funcionalidades
+Funcionalidades:
 
     Suma: Realiza la suma de dos números.
 
@@ -21,7 +22,7 @@ Tecnologías
 
     Lenguaje: Java
 
-Uso
+Uso:
 
 Al ejecutar el programa, el usuario verá un menú con las siguientes opciones:
 
@@ -35,8 +36,9 @@ Seleccione una operación:
 El usuario debe ingresar el número correspondiente a la operación que desea realizar. Luego, el programa le pedirá que ingrese dos operandos y calculará el resultado. La aplicación continuará funcionando hasta que el usuario elija salir.
 Estado del Proyecto
 
-    Estado: Terminado, con opción a implementar mejoras.
+Estado: 
+    Terminado, con opción a implementar mejoras.
 
-Autor
+Autor:
 
     Enrique Cala Rodríguez
