@@ -42,4 +42,4 @@ Estado:
 
 Autor:
 
-    Enrique Cala Rodríguez
+    Desarrollado por @ecalar como parte del repaso de contenidos del CFGS DAM.
