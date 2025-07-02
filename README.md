@@ -1,45 +1,65 @@
-AppCalculadora
+# 🧮 AppCalculadora
 
-Descripción:
+Aplicación de consola en Java que simula una **calculadora básica**, perfecta para reforzar conceptos clave de programación y lógica matemática en Java.
 
-Este proyecto es una calculadora sencilla en consola diseñada para aprender y repasar lo aprendido en el ciclo de Formación Profesional de Desarrollo de Aplicaciones Multiplataforma (CFGM DAM). Se ha subido a GitHub con el propósito de servir como parte de un portfolio de proyectos.
+---
 
-La aplicación permite al usuario realizar operaciones matemáticas sencillas (suma, resta, multiplicación, división) en la consola. El usuario selecciona la operación deseada mediante un número y luego ingresa los dos operandos para obtener el resultado.
+## 📚 Descripción
 
-Funcionalidades:
+Esta aplicación permite realizar operaciones aritméticas simples (suma, resta, multiplicación y división) mediante una interfaz de línea de comandos. Desarrollada con el fin de practicar fundamentos del lenguaje Java y lógica de programación durante el ciclo **CFGS DAM**.
 
-    Suma: Realiza la suma de dos números.
+---
 
-    Resta: Realiza la resta entre dos números.
+## 🚀 Tecnologías Utilizadas
 
-    Multiplicación: Realiza la multiplicación de dos números.
+- Java 17+
+- Programación orientada a objetos (POO)
+- Interfaz de línea de comandos (CLI)
 
-    División: Realiza la división de dos números (con control de división por cero).
+---
 
-    Salir: Permite al usuario salir del programa.
+## 🎯 Objetivos de Aprendizaje
 
-Tecnologías
+- Practicar estructuras de control (if, switch, bucles).
+- Implementar métodos reutilizables para cada operación.
+- Controlar excepciones (como división por cero y entradas no numéricas).
+- Diseñar un flujo de usuario amigable y robusto.
+- Desarrollar lógica de negocio sin depender de frameworks externos.
 
-    Lenguaje: Java
+---
 
-Uso:
+## 🧩 Funcionalidades Clave
 
-Al ejecutar el programa, el usuario verá un menú con las siguientes opciones:
+- Operaciones: **suma**, **resta**, **multiplicación** y **división**.
+- Entrada de datos por teclado.
+- Validación de entradas y manejo de errores (división por cero, valores inválidos).
+- Menú interactivo que pregunta al usuario hasta que decide salir.
 
-Seleccione una operación:
-1. Sumar
-2. Restar
-3. Multiplicar
-4. Dividir
-5. Salir
+---
 
-El usuario debe ingresar el número correspondiente a la operación que desea realizar. Luego, el programa le pedirá que ingrese dos operandos y calculará el resultado. La aplicación continuará funcionando hasta que el usuario elija salir.
-Estado del Proyecto
+## 📸 Capturas (próximamente)
 
-Estado: 
+Añadiré capturas o ejemplos de uso una vez estén disponibles.
 
-    Terminado, con opción a implementar mejoras.
+---
 
-Autor:
+## 🧠 Sobre el Autor
 
-    Desarrollado por @ecalar como parte del repaso de contenidos del CFGS DAM.
+Este proyecto forma parte de mi portafolio de aprendizaje. Desarrollado durante mis estudios en el **CFGS DAM**, puedes explorar más proyectos similares en mi cuenta de GitHub: [@ecalar](https://github.com/ecalar).
+
+---
+
+## ⚙️ Estado del Proyecto
+
+✅ Completo — aunque siempre se pueden añadir mejoras como operaciones adicionales o interfaz gráfica.
+
+---
+
+## 📩 Contacto
+
+Si te interesa saber más sobre mis proyectos o colaborar:
+
+- GitHub: [@ecalar](https://github.com/ecalar)
+- Email: enriquecalar@gmail,com
+
+---
